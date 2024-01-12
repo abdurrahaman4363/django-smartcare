@@ -1,0 +1,1931 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "importPath": "appointment.models",
+        "description": "appointment.models",
+        "isExtraImport": true,
+        "detail": "appointment.models",
+        "documentation": {}
+    },
+    {
+        "label": "render_to_string",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "render_to_string",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMultiAlternatives",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMultiAlternatives",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "patient.models",
+        "description": "patient.models",
+        "isExtraImport": true,
+        "detail": "patient.models",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "patient.models",
+        "description": "patient.models",
+        "isExtraImport": true,
+        "detail": "patient.models",
+        "documentation": {}
+    },
+    {
+        "label": "AvailableTime",
+        "importPath": "doctor.models",
+        "description": "doctor.models",
+        "isExtraImport": true,
+        "detail": "doctor.models",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "importPath": "doctor.models",
+        "description": "doctor.models",
+        "isExtraImport": true,
+        "detail": "doctor.models",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "pagination",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "importPath": "contact_us.urls",
+        "description": "contact_us.urls",
+        "isExtraImport": true,
+        "detail": "contact_us.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "importPath": "contact_us.urls",
+        "description": "contact_us.urls",
+        "isExtraImport": true,
+        "detail": "contact_us.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "ContactUs",
+        "importPath": "contact_us.models",
+        "description": "contact_us.models",
+        "isExtraImport": true,
+        "detail": "contact_us.models",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "default_token_generator",
+        "importPath": "django.contrib.auth.tokens",
+        "description": "django.contrib.auth.tokens",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_encode",
+        "importPath": "django.utils.http",
+        "description": "django.utils.http",
+        "isExtraImport": true,
+        "detail": "django.utils.http",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_decode",
+        "importPath": "django.utils.http",
+        "description": "django.utils.http",
+        "isExtraImport": true,
+        "detail": "django.utils.http",
+        "documentation": {}
+    },
+    {
+        "label": "force_bytes",
+        "importPath": "django.utils.encoding",
+        "description": "django.utils.encoding",
+        "isExtraImport": true,
+        "detail": "django.utils.encoding",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "environ",
+        "description": "environ",
+        "detail": "environ",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "appointment.migrations.0001_initial",
+        "description": "appointment.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('doctor', '0004_alter_review_rating'),\n        ('patient', '0002_alter_patient_user'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Appointment',\n            fields=[",
+        "detail": "appointment.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "appointment.migrations.0002_alter_appointment_appointment_status_and_more",
+        "description": "appointment.migrations.0002_alter_appointment_appointment_status_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('appointment', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='appointment',\n            name='appointment_status',\n            field=models.CharField(choices=[('Completed', 'Completed'), ('Running', 'Running'), ('Pending', 'Pending')], default='Pending', max_length=10),\n        ),",
+        "detail": "appointment.migrations.0002_alter_appointment_appointment_status_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "appointment.migrations.0003_alter_appointment_appointment_status_and_more",
+        "description": "appointment.migrations.0003_alter_appointment_appointment_status_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('doctor', '0006_alter_review_rating'),\n        ('appointment', '0002_alter_appointment_appointment_status_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='appointment',\n            name='appointment_status',\n            field=models.CharField(choices=[('Running', 'Running'), ('Completed', 'Completed'), ('Pending', 'Pending')], default='Pending', max_length=10),",
+        "detail": "appointment.migrations.0003_alter_appointment_appointment_status_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "appointment.migrations.0004_alter_appointment_appointment_status_and_more",
+        "description": "appointment.migrations.0004_alter_appointment_appointment_status_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('appointment', '0003_alter_appointment_appointment_status_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='appointment',\n            name='appointment_status',\n            field=models.CharField(choices=[('Pending', 'Pending'), ('Completed', 'Completed'), ('Running', 'Running')], default='Pending', max_length=10),\n        ),",
+        "detail": "appointment.migrations.0004_alter_appointment_appointment_status_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentAdmin",
+        "kind": 6,
+        "importPath": "appointment.admin",
+        "description": "appointment.admin",
+        "peekOfCode": "class AppointmentAdmin(admin.ModelAdmin):\n    list_display = ['doctor_name','patient_name','appointment_types','appointment_status','symptom','time','cancel']\n    # obj mani hocche Appointment model er object jeta create hobe value diye submit korar pore eta\n    def doctor_name(self,obj):\n        return obj.doctor.user.first_name\n    def patient_name(self,obj):\n        return obj.patient.user.first_name\n    def save_model(self,request,obj,form,change):\n        obj.save()\n        if obj.appointment_status=='Running' and obj.appointment_types =='Online':",
+        "detail": "appointment.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentConfig",
+        "kind": 6,
+        "importPath": "appointment.apps",
+        "description": "appointment.apps",
+        "peekOfCode": "class AppointmentConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'appointment'",
+        "detail": "appointment.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "kind": 6,
+        "importPath": "appointment.models",
+        "description": "appointment.models",
+        "peekOfCode": "class Appointment(models.Model):\n    patient = models.ForeignKey(Patient,on_delete=models.CASCADE)\n    doctor = models.ForeignKey(Doctor,on_delete=models.CASCADE)\n    appointment_types = models.CharField(choices=APPOINTMENT_TYPES,max_length=10)\n    appointment_status = models.CharField(choices=APPOINTMENT_STATUS,max_length=10,default='Pending')\n    symptom = models.TextField()\n    time = models.ForeignKey(AvailableTime,on_delete=models.CASCADE)\n    cancel = models.BooleanField(default  = False)\n    def __str__(self):\n        return f'Doctor:{self.doctor.user.first_name}, patient: {self.patient.user.first_name}'",
+        "detail": "appointment.models",
+        "documentation": {}
+    },
+    {
+        "label": "APPOINTMENT_TYPES",
+        "kind": 5,
+        "importPath": "appointment.models",
+        "description": "appointment.models",
+        "peekOfCode": "APPOINTMENT_TYPES = {\n    ('Offline','Offline'),\n    ('Online','Online'),\n}\nclass Appointment(models.Model):\n    patient = models.ForeignKey(Patient,on_delete=models.CASCADE)\n    doctor = models.ForeignKey(Doctor,on_delete=models.CASCADE)\n    appointment_types = models.CharField(choices=APPOINTMENT_TYPES,max_length=10)\n    appointment_status = models.CharField(choices=APPOINTMENT_STATUS,max_length=10,default='Pending')\n    symptom = models.TextField()",
+        "detail": "appointment.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentSerializer",
+        "kind": 6,
+        "importPath": "appointment.serializers",
+        "description": "appointment.serializers",
+        "peekOfCode": "class AppointmentSerializer(serializers.ModelSerializer):\n    patient = serializers.StringRelatedField(many=False)\n    doctor = serializers.StringRelatedField(many=False)\n    time = serializers.StringRelatedField(many=False)\n    class Meta:\n        model = Appointment\n        fields = \"__all__\"",
+        "detail": "appointment.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "appointment.urls",
+        "description": "appointment.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('appointment',AppointmentViewset,basename='appointment')\nurlpatterns=[\n    path('',include(router.urls))\n]",
+        "detail": "appointment.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentViewset",
+        "kind": 6,
+        "importPath": "appointment.views",
+        "description": "appointment.views",
+        "peekOfCode": "class AppointmentViewset(viewsets.ModelViewSet):\n    queryset=Appointment.objects.all()\n    serializer_class = AppointmentSerializer\n    #custom query korar jonno niche functin ta use kore\n    def get_queryset(self):\n        queryset = super().get_queryset()\n        patient_id = self.request.query_params.get('patient_id')\n        # patient_id = self.request.query_params['patient_id']\n        print(self.request)\n        # print(self.request.query_params)",
+        "detail": "appointment.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "contact_us.migrations.0001_initial",
+        "description": "contact_us.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ContactUs',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "contact_us.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "contact_us.migrations.0002_alter_contactus_options",
+        "description": "contact_us.migrations.0002_alter_contactus_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('contact_us', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='contactus',\n            options={'verbose_name_plural': 'Contact Us'},\n        ),\n    ]",
+        "detail": "contact_us.migrations.0002_alter_contactus_options",
+        "documentation": {}
+    },
+    {
+        "label": "ContactModelAdmin",
+        "kind": 6,
+        "importPath": "contact_us.admin",
+        "description": "contact_us.admin",
+        "peekOfCode": "class ContactModelAdmin(admin.ModelAdmin):\n    list_display = ['id','name','phone','problem']\nadmin.site.register(ContactUs,ContactModelAdmin)",
+        "detail": "contact_us.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ContactUsConfig",
+        "kind": 6,
+        "importPath": "contact_us.apps",
+        "description": "contact_us.apps",
+        "peekOfCode": "class ContactUsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'contact_us'",
+        "detail": "contact_us.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ContactUs",
+        "kind": 6,
+        "importPath": "contact_us.models",
+        "description": "contact_us.models",
+        "peekOfCode": "class ContactUs(models.Model):\n    name = models.CharField(max_length=100)\n    phone = models.CharField(max_length = 12)\n    problem = models.TextField()\n    def __str__(self):\n        return self.name\n    class Meta:\n        verbose_name_plural = \"Contact Us\"",
+        "detail": "contact_us.models",
+        "documentation": {}
+    },
+    {
+        "label": "ContactUsSerializer",
+        "kind": 6,
+        "importPath": "contact_us.serializers",
+        "description": "contact_us.serializers",
+        "peekOfCode": "class ContactUsSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = ContactUs\n        fields = '__all__'",
+        "detail": "contact_us.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "contact_us.urls",
+        "description": "contact_us.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('contactus', ContactUsViewset, basename='contactUs')\nurlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "contact_us.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "contact_us.urls",
+        "description": "contact_us.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "contact_us.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ContactUsViewset",
+        "kind": 6,
+        "importPath": "contact_us.views",
+        "description": "contact_us.views",
+        "peekOfCode": "class ContactUsViewset(viewsets.ModelViewSet):\n    queryset = ContactUs.objects.all()\n    serializer_class = ContactUsSerializer",
+        "detail": "contact_us.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctor.migrations.0001_initial",
+        "description": "doctor.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='AvailableTime',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "doctor.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctor.migrations.0002_remove_doctor_availabe_time_doctor_availabe_time",
+        "description": "doctor.migrations.0002_remove_doctor_availabe_time_doctor_availabe_time",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('doctor', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='doctor',\n            name='availabe_time',\n        ),\n        migrations.AddField(",
+        "detail": "doctor.migrations.0002_remove_doctor_availabe_time_doctor_availabe_time",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctor.migrations.0003_review",
+        "description": "doctor.migrations.0003_review",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('patient', '0002_alter_patient_user'),\n        ('doctor', '0002_remove_doctor_availabe_time_doctor_availabe_time'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Review',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "doctor.migrations.0003_review",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctor.migrations.0004_alter_review_rating",
+        "description": "doctor.migrations.0004_alter_review_rating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('doctor', '0003_review'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='review',\n            name='rating',\n            field=models.CharField(choices=[('✸✸✸', '✸✸✸'), ('✸✸✸✸✸', '✸✸✸✸✸'), ('✸', '✸'), ('✸✸✸✸', '✸✸✸✸'), ('✸✸', '✸✸')], max_length=100),\n        ),",
+        "detail": "doctor.migrations.0004_alter_review_rating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctor.migrations.0005_alter_review_rating",
+        "description": "doctor.migrations.0005_alter_review_rating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('doctor', '0004_alter_review_rating'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='review',\n            name='rating',\n            field=models.CharField(choices=[('✸✸✸✸✸', '✸✸✸✸✸'), ('✸✸✸', '✸✸✸'), ('✸✸✸✸', '✸✸✸✸'), ('✸✸', '✸✸'), ('✸', '✸')], max_length=100),\n        ),",
+        "detail": "doctor.migrations.0005_alter_review_rating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctor.migrations.0006_alter_review_rating",
+        "description": "doctor.migrations.0006_alter_review_rating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('doctor', '0005_alter_review_rating'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='review',\n            name='rating',\n            field=models.CharField(choices=[('✸✸✸✸✸', '✸✸✸✸✸'), ('✸✸', '✸✸'), ('✸✸✸✸', '✸✸✸✸'), ('✸', '✸'), ('✸✸✸', '✸✸✸')], max_length=100),\n        ),",
+        "detail": "doctor.migrations.0006_alter_review_rating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctor.migrations.0007_alter_review_rating",
+        "description": "doctor.migrations.0007_alter_review_rating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('doctor', '0006_alter_review_rating'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='review',\n            name='rating',\n            field=models.CharField(choices=[('✸✸✸', '✸✸✸'), ('✸', '✸'), ('✸✸✸✸✸', '✸✸✸✸✸'), ('✸✸', '✸✸'), ('✸✸✸✸', '✸✸✸✸')], max_length=100),\n        ),",
+        "detail": "doctor.migrations.0007_alter_review_rating",
+        "documentation": {}
+    },
+    {
+        "label": "DesignationAdmin",
+        "kind": 6,
+        "importPath": "doctor.admin",
+        "description": "doctor.admin",
+        "peekOfCode": "class DesignationAdmin(admin.ModelAdmin):\n    prepopulated_fields = {'slug':('name',),}\nadmin.site.register(Designation,DesignationAdmin)\nclass SpecializationAdmin(admin.ModelAdmin):\n    prepopulated_fields = {'slug':('name',),}\nadmin.site.register(Specialization,SpecializationAdmin)\nadmin.site.register(AvailableTime)\nadmin.site.register(Doctor)\nadmin.site.register(Review)",
+        "detail": "doctor.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SpecializationAdmin",
+        "kind": 6,
+        "importPath": "doctor.admin",
+        "description": "doctor.admin",
+        "peekOfCode": "class SpecializationAdmin(admin.ModelAdmin):\n    prepopulated_fields = {'slug':('name',),}\nadmin.site.register(Specialization,SpecializationAdmin)\nadmin.site.register(AvailableTime)\nadmin.site.register(Doctor)\nadmin.site.register(Review)",
+        "detail": "doctor.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorConfig",
+        "kind": 6,
+        "importPath": "doctor.apps",
+        "description": "doctor.apps",
+        "peekOfCode": "class DoctorConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'doctor'",
+        "detail": "doctor.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Specialization",
+        "kind": 6,
+        "importPath": "doctor.models",
+        "description": "doctor.models",
+        "peekOfCode": "class Specialization(models.Model):\n    name = models.CharField(max_length = 100)\n    slug = models.SlugField(max_length=100)\n    def __str__(self):\n        return self.name\nclass Designation(models.Model):\n    name = models.CharField(max_length = 100)\n    slug = models.SlugField(max_length=100)\n    def __str__(self):\n        return self.name",
+        "detail": "doctor.models",
+        "documentation": {}
+    },
+    {
+        "label": "Designation",
+        "kind": 6,
+        "importPath": "doctor.models",
+        "description": "doctor.models",
+        "peekOfCode": "class Designation(models.Model):\n    name = models.CharField(max_length = 100)\n    slug = models.SlugField(max_length=100)\n    def __str__(self):\n        return self.name\nclass AvailableTime(models.Model):\n    name = models.CharField(max_length = 100)\n    def __str__(self):\n        return self.name\n    # one to many --> many part e foreign key add kortam",
+        "detail": "doctor.models",
+        "documentation": {}
+    },
+    {
+        "label": "AvailableTime",
+        "kind": 6,
+        "importPath": "doctor.models",
+        "description": "doctor.models",
+        "peekOfCode": "class AvailableTime(models.Model):\n    name = models.CharField(max_length = 100)\n    def __str__(self):\n        return self.name\n    # one to many --> many part e foreign key add kortam\nclass Doctor(models.Model):\n    user = models.OneToOneField(User,on_delete=models.CASCADE)\n    image = models.ImageField(upload_to='doctor/images')\n    # ManyToManyField hole on_delete use korthe hoi na \n    designation = models.ManyToManyField(Designation)",
+        "detail": "doctor.models",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "kind": 6,
+        "importPath": "doctor.models",
+        "description": "doctor.models",
+        "peekOfCode": "class Doctor(models.Model):\n    user = models.OneToOneField(User,on_delete=models.CASCADE)\n    image = models.ImageField(upload_to='doctor/images')\n    # ManyToManyField hole on_delete use korthe hoi na \n    designation = models.ManyToManyField(Designation)\n    specialization = models.ManyToManyField(Specialization)\n    availabe_time = models.ManyToManyField(AvailableTime)\n    fee = models.IntegerField()\n    meet_link = models.CharField(max_length=100)\n    def __str__(self):",
+        "detail": "doctor.models",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "kind": 6,
+        "importPath": "doctor.models",
+        "description": "doctor.models",
+        "peekOfCode": "class Review(models.Model):\n    reviewer = models.ForeignKey(Patient,on_delete=models.CASCADE)\n    doctor = models.ForeignKey(Doctor,on_delete=models.CASCADE)\n    body = models.TextField()\n    created = models.DateTimeField(auto_now_add = True)\n    rating = models.CharField(choices = STAR_CHOICES,max_length=100)\n    def __str__(self):\n        return f'patient :{self.reviewer.user.first_name}, doctor:{self.doctor.user.first_name}'",
+        "detail": "doctor.models",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorSerializer",
+        "kind": 6,
+        "importPath": "doctor.serializers",
+        "description": "doctor.serializers",
+        "peekOfCode": "class DoctorSerializer(serializers.ModelSerializer):\n    user = serializers.StringRelatedField(many=False)\n    designation = serializers.StringRelatedField(many=True)\n    specialization = serializers.StringRelatedField(many=True)\n    availabe_time = serializers.StringRelatedField(many=True)\n    class Meta:\n        model = Doctor\n        fields = '__all__'\nclass SpecializationSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "doctor.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SpecializationSerializer",
+        "kind": 6,
+        "importPath": "doctor.serializers",
+        "description": "doctor.serializers",
+        "peekOfCode": "class SpecializationSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Specialization\n        fields = '__all__'\nclass DesignationSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Designation\n        fields = '__all__'\nclass AvailableTimeSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "doctor.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DesignationSerializer",
+        "kind": 6,
+        "importPath": "doctor.serializers",
+        "description": "doctor.serializers",
+        "peekOfCode": "class DesignationSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Designation\n        fields = '__all__'\nclass AvailableTimeSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = AvailableTime\n        fields = '__all__'\nclass ReviewSerializer(serializers.ModelSerializer):\n    reviewer = serializers.StringRelatedField(many=False)",
+        "detail": "doctor.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AvailableTimeSerializer",
+        "kind": 6,
+        "importPath": "doctor.serializers",
+        "description": "doctor.serializers",
+        "peekOfCode": "class AvailableTimeSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = AvailableTime\n        fields = '__all__'\nclass ReviewSerializer(serializers.ModelSerializer):\n    reviewer = serializers.StringRelatedField(many=False)\n    doctor = serializers.StringRelatedField(many=False)\n    class Meta:\n        model = Review\n        fields = '__all__'",
+        "detail": "doctor.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewSerializer",
+        "kind": 6,
+        "importPath": "doctor.serializers",
+        "description": "doctor.serializers",
+        "peekOfCode": "class ReviewSerializer(serializers.ModelSerializer):\n    reviewer = serializers.StringRelatedField(many=False)\n    doctor = serializers.StringRelatedField(many=False)\n    class Meta:\n        model = Review\n        fields = '__all__'",
+        "detail": "doctor.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "doctor.urls",
+        "description": "doctor.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('doctor',DoctorViewset,basename='doctor')\nrouter.register('specialization',SpecializationViewset,basename='specialization')\nrouter.register('designation',DesignationViewset,basename='designation')\nrouter.register('availableTime',AvailableTimeViewset,basename='availableTime')\nrouter.register('reviews',ReviewViewset,basename='review')\nurlpatterns=[\n    path('',include(router.urls)),\n]",
+        "detail": "doctor.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorPagination",
+        "kind": 6,
+        "importPath": "doctor.views",
+        "description": "doctor.views",
+        "peekOfCode": "class DoctorPagination(pagination.PageNumberPagination):\n    page_size = 1 # items per page\n    page_size_query_param = 'page_size'\n    max_page_size = 100 \nclass DoctorViewset(viewsets.ModelViewSet):\n    queryset = Doctor.objects.all()\n    serializer_class = DoctorSerializer\n    # for pagination \n    filter_backends = [filters.SearchFilter]\n    pagination_class= DoctorPagination",
+        "detail": "doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorViewset",
+        "kind": 6,
+        "importPath": "doctor.views",
+        "description": "doctor.views",
+        "peekOfCode": "class DoctorViewset(viewsets.ModelViewSet):\n    queryset = Doctor.objects.all()\n    serializer_class = DoctorSerializer\n    # for pagination \n    filter_backends = [filters.SearchFilter]\n    pagination_class= DoctorPagination\n    search_fields = ['user__first__name', 'user__email','designation_name']\nclass SpecializationViewset(viewsets.ModelViewSet):\n    queryset = Specialization.objects.all()\n    serializer_class = SpecializationSerializer",
+        "detail": "doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "SpecializationViewset",
+        "kind": 6,
+        "importPath": "doctor.views",
+        "description": "doctor.views",
+        "peekOfCode": "class SpecializationViewset(viewsets.ModelViewSet):\n    queryset = Specialization.objects.all()\n    serializer_class = SpecializationSerializer\nclass DesignationViewset(viewsets.ModelViewSet):\n    queryset = Designation.objects.all()\n    serializer_class = DesignationSerializer\nclass AvailableTimeForSpecificDcotor(filters.BaseFilterBackend):\n    def filter_queryset(self,request,query_set,view):\n        doctor_id = request.query_params.get('doctor_id')\n        if doctor_id:",
+        "detail": "doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "DesignationViewset",
+        "kind": 6,
+        "importPath": "doctor.views",
+        "description": "doctor.views",
+        "peekOfCode": "class DesignationViewset(viewsets.ModelViewSet):\n    queryset = Designation.objects.all()\n    serializer_class = DesignationSerializer\nclass AvailableTimeForSpecificDcotor(filters.BaseFilterBackend):\n    def filter_queryset(self,request,query_set,view):\n        doctor_id = request.query_params.get('doctor_id')\n        if doctor_id:\n            return query_set.filter(doctor = doctor_id)\n        return query_set\nclass AvailableTimeViewset(viewsets.ModelViewSet):",
+        "detail": "doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "AvailableTimeForSpecificDcotor",
+        "kind": 6,
+        "importPath": "doctor.views",
+        "description": "doctor.views",
+        "peekOfCode": "class AvailableTimeForSpecificDcotor(filters.BaseFilterBackend):\n    def filter_queryset(self,request,query_set,view):\n        doctor_id = request.query_params.get('doctor_id')\n        if doctor_id:\n            return query_set.filter(doctor = doctor_id)\n        return query_set\nclass AvailableTimeViewset(viewsets.ModelViewSet):\n    # permission_classes = [IsAuthenticated]\n    permission_classes = [IsAuthenticatedOrReadOnly]\n    queryset = AvailableTime.objects.all()",
+        "detail": "doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "AvailableTimeViewset",
+        "kind": 6,
+        "importPath": "doctor.views",
+        "description": "doctor.views",
+        "peekOfCode": "class AvailableTimeViewset(viewsets.ModelViewSet):\n    # permission_classes = [IsAuthenticated]\n    permission_classes = [IsAuthenticatedOrReadOnly]\n    queryset = AvailableTime.objects.all()\n    serializer_class = AvailableTimeSerializer\n    filter_backends = [AvailableTimeForSpecificDcotor]\nclass ReviewViewset(viewsets.ModelViewSet):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer",
+        "detail": "doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewViewset",
+        "kind": 6,
+        "importPath": "doctor.views",
+        "description": "doctor.views",
+        "peekOfCode": "class ReviewViewset(viewsets.ModelViewSet):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer",
+        "detail": "doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "patient.migrations.0001_initial",
+        "description": "patient.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Patient',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "patient.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "patient.migrations.0002_alter_patient_user",
+        "description": "patient.migrations.0002_alter_patient_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('patient', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='patient',\n            name='user',\n            field=models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "patient.migrations.0002_alter_patient_user",
+        "documentation": {}
+    },
+    {
+        "label": "PatientModelAdmin",
+        "kind": 6,
+        "importPath": "patient.admin",
+        "description": "patient.admin",
+        "peekOfCode": "class PatientModelAdmin(admin.ModelAdmin):\n    list_display = ['id','first_name','last_name','mobile_no','image']\n    def first_name(self,obj):\n        return obj.user.first_name\n    def last_name(self,obj):\n        return obj.user.last_name\nadmin.site.register(Patient,PatientModelAdmin)",
+        "detail": "patient.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PatientConfig",
+        "kind": 6,
+        "importPath": "patient.apps",
+        "description": "patient.apps",
+        "peekOfCode": "class PatientConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'patient'",
+        "detail": "patient.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "kind": 6,
+        "importPath": "patient.models",
+        "description": "patient.models",
+        "peekOfCode": "class Patient(models.Model):\n    user = models.OneToOneField(User,on_delete=models.CASCADE)\n    image = models.ImageField(upload_to='patient/images')\n    mobile_no = models.CharField(max_length = 12)\n    def __str__(self):\n        return f\"{self.user.first_name} {self.user.last_name}\"",
+        "detail": "patient.models",
+        "documentation": {}
+    },
+    {
+        "label": "PatientSerializer",
+        "kind": 6,
+        "importPath": "patient.serializers",
+        "description": "patient.serializers",
+        "peekOfCode": "class PatientSerializer(serializers.ModelSerializer):\n    user = serializers.StringRelatedField(many=False)\n    class Meta:\n        model = Patient\n        fields = '__all__'\n# class RegistrationSerializer(serializers.ModelSerializer):\n#     confirm_password = serializers.CharField(required=True)\n#     class Meta:\n#         model = User\n#         fields = [",
+        "detail": "patient.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationSerializer",
+        "kind": 6,
+        "importPath": "patient.serializers",
+        "description": "patient.serializers",
+        "peekOfCode": "class RegistrationSerializer(serializers.ModelSerializer):\n    confirm_password = serializers.CharField(required=True)\n    class Meta:\n        model = User\n        fields = [\n            \"username\",\n            \"first_name\",\n            \"last_name\",\n            \"email\",\n            \"password\",",
+        "detail": "patient.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSerializer",
+        "kind": 6,
+        "importPath": "patient.serializers",
+        "description": "patient.serializers",
+        "peekOfCode": "class LoginSerializer(serializers.Serializer):\n    username = serializers.CharField(required = True)\n    password = serializers.CharField(required = True)",
+        "detail": "patient.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "patient.urls",
+        "description": "patient.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('patient', PatientViewset, basename='patient')\nurlpatterns = [\n    path('', include(router.urls)),\n    path('register/',RegistrationAPIView.as_view() , name='register'),\n    path('login/',LoginAPIView.as_view() , name='login'),\n    path('logout/',LogoutAPIView.as_view() , name='logout'),\n    path('active/<uid64>/<token>/',activate,name='activate')\n]",
+        "detail": "patient.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "patient.urls",
+        "description": "patient.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n    path('register/',RegistrationAPIView.as_view() , name='register'),\n    path('login/',LoginAPIView.as_view() , name='login'),\n    path('logout/',LogoutAPIView.as_view() , name='logout'),\n    path('active/<uid64>/<token>/',activate,name='activate')\n]",
+        "detail": "patient.urls",
+        "documentation": {}
+    },
+    {
+        "label": "PatientViewset",
+        "kind": 6,
+        "importPath": "patient.views",
+        "description": "patient.views",
+        "peekOfCode": "class PatientViewset(viewsets.ModelViewSet):\n    queryset = Patient.objects.all()\n    serializer_class = PatientSerializer\nclass RegistrationAPIView(APIView):\n    serializer_class = RegistrationSerializer\n    def post(self, request):\n        serializer = self.serializer_class(data=request.data)\n        if serializer.is_valid():\n            user=serializer.save()\n            print(user.email)",
+        "detail": "patient.views",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationAPIView",
+        "kind": 6,
+        "importPath": "patient.views",
+        "description": "patient.views",
+        "peekOfCode": "class RegistrationAPIView(APIView):\n    serializer_class = RegistrationSerializer\n    def post(self, request):\n        serializer = self.serializer_class(data=request.data)\n        if serializer.is_valid():\n            user=serializer.save()\n            print(user.email)\n            token = default_token_generator.make_token(user)\n            uid = urlsafe_base64_encode(force_bytes(user.pk))\n            confirm_link = f\"http://127.0.0.1:8000/active/{uid}/{token}\"",
+        "detail": "patient.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginAPIView",
+        "kind": 6,
+        "importPath": "patient.views",
+        "description": "patient.views",
+        "peekOfCode": "class LoginAPIView(APIView):\n    def post(self,request):\n        serializer = LoginSerializer(data= self.request.data)\n        if serializer.is_valid():\n            username = serializer.validated_data['username']\n            password = serializer.validated_data['password']\n            user = authenticate(username=username,password=password)\n            if user:\n                token,_ = Token.objects.get_or_create(user=user)\n                login(request,user)",
+        "detail": "patient.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutAPIView",
+        "kind": 6,
+        "importPath": "patient.views",
+        "description": "patient.views",
+        "peekOfCode": "class LogoutAPIView(APIView):\n    def get(self, request):\n        request.user.auth_token.delete()\n        logout(request)\n        return redirect('login')",
+        "detail": "patient.views",
+        "documentation": {}
+    },
+    {
+        "label": "activate",
+        "kind": 2,
+        "importPath": "patient.views",
+        "description": "patient.views",
+        "peekOfCode": "def activate(request,uid64,token):\n    try:\n        uid = urlsafe_base64_decode(uid64).decode()\n        user = User._default_manager.get(pk=uid)\n    except(User.DoesNotExist):\n        user = None\n    if user is not None and default_token_generator.check_token(user,token):\n        user.is_active = True\n        user.save()\n        return redirect('login')",
+        "detail": "patient.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "service.migrations.0001_initial",
+        "description": "service.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Service',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50)),",
+        "detail": "service.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceConfig",
+        "kind": 6,
+        "importPath": "service.apps",
+        "description": "service.apps",
+        "peekOfCode": "class ServiceConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'service'",
+        "detail": "service.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "kind": 6,
+        "importPath": "service.models",
+        "description": "service.models",
+        "peekOfCode": "class Service(models.Model):\n    name = models.CharField(max_length=50)\n    description = models.TextField()\n    image = models.ImageField(upload_to='service/images')\n    def __str__(self):\n        return self.name",
+        "detail": "service.models",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceSerializer",
+        "kind": 6,
+        "importPath": "service.serializers",
+        "description": "service.serializers",
+        "peekOfCode": "class ServiceSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Service\n        fields = '__all__'",
+        "detail": "service.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "service.urls",
+        "description": "service.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('services', ServiceViewset, basename='service')\nurlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "service.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "service.urls",
+        "description": "service.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "service.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceViewset",
+        "kind": 6,
+        "importPath": "service.views",
+        "description": "service.views",
+        "peekOfCode": "class ServiceViewset(viewsets.ModelViewSet):\n    queryset = Service.objects.all()\n    serializer_class = ServiceSerializer",
+        "detail": "service.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "smart_care.asgi",
+        "description": "smart_care.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "smart_care.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "env = environ.Env()\nenviron.Env.read_env()\n# end env\nfrom pathlib import Path\n# Build paths inside the project like this: BASE_DIR / 'subdir'.\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-bcd^1bm!7evgu3okng!o=0b6367wjl=*=9raeq0t$w=&1lb2u2'",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-bcd^1bm!7evgu3okng!o=0b6367wjl=*=9raeq0t$w=&1lb2u2'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-bcd^1bm!7evgu3okng!o=0b6367wjl=*=9raeq0t$w=&1lb2u2'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "ALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'doctor',",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'doctor',\n    'patient',\n    'appointment',",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'smart_care.urls'",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "ROOT_URLCONF = 'smart_care.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'smart_care.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nREST_FRAMEWORK = {",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nREST_FRAMEWORK = {\n    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.IsAuthenticated',",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.IsAuthenticated',\n    ],\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\n# ******************added static file ********************#\nSTATIC_URL = 'static/'\n# STATICFILES_DIRS = [\n#     BASE_DIR / \"static\",",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\n# ******************added static file ********************#\nSTATIC_URL = 'static/'\n# STATICFILES_DIRS = [\n#     BASE_DIR / \"static\",\n# ]",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\n# ******************added static file ********************#\nSTATIC_URL = 'static/'\n# STATICFILES_DIRS = [\n#     BASE_DIR / \"static\",\n# ]\n# ******************added static file ********************#",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\n# ******************added static file ********************#\nSTATIC_URL = 'static/'\n# STATICFILES_DIRS = [\n#     BASE_DIR / \"static\",\n# ]\n# ******************added static file ********************#\n# Default primary key field type",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# STATICFILES_DIRS = [\n#     BASE_DIR / \"static\",\n# ]\n# ******************added static file ********************#\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# ******************added media file ********************#\n# import os",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# ******************added media file ********************#\n# import os\nMEDIA_URL = '/media/'\n# Path where media is stored'\n# MEDIA_ROOT = BASE_DIR / 'media'\n# MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\n# ******************added media file ********************#\n# for mail send\nimport os",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\n# Path where media is stored'\n# MEDIA_ROOT = BASE_DIR / 'media'\n# MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\n# ******************added media file ********************#\n# for mail send\nimport os\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = os.environ.get('EMAIL_USER')\n# print(EMAIL_HOST_USER)\nEMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASSWORD')\n# print(EMAIL_HOST_PASSWORD)\nEMAIL_PORT = 587\n# mail send end\n# for deploy the django project ",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = os.environ.get('EMAIL_USER')\n# print(EMAIL_HOST_USER)\nEMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASSWORD')\n# print(EMAIL_HOST_PASSWORD)\nEMAIL_PORT = 587\n# mail send end\n# for deploy the django project \n\"\"\" ",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = os.environ.get('EMAIL_USER')\n# print(EMAIL_HOST_USER)\nEMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASSWORD')\n# print(EMAIL_HOST_PASSWORD)\nEMAIL_PORT = 587\n# mail send end\n# for deploy the django project \n\"\"\" \n1.ALLOWED_HOSTS = [\"*\"]",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "EMAIL_HOST_USER = os.environ.get('EMAIL_USER')\n# print(EMAIL_HOST_USER)\nEMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASSWORD')\n# print(EMAIL_HOST_PASSWORD)\nEMAIL_PORT = 587\n# mail send end\n# for deploy the django project \n\"\"\" \n1.ALLOWED_HOSTS = [\"*\"]\n2.pip freeze > requirements.txt",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASSWORD')\n# print(EMAIL_HOST_PASSWORD)\nEMAIL_PORT = 587\n# mail send end\n# for deploy the django project \n\"\"\" \n1.ALLOWED_HOSTS = [\"*\"]\n2.pip freeze > requirements.txt\n3.pip freeze | py -c \"for p in __import__('sys').stdin: print(p.split('=')[0])\"\n4. create repository on github",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "EMAIL_PORT = 587\n# mail send end\n# for deploy the django project \n\"\"\" \n1.ALLOWED_HOSTS = [\"*\"]\n2.pip freeze > requirements.txt\n3.pip freeze | py -c \"for p in __import__('sys').stdin: print(p.split('=')[0])\"\n4. create repository on github\n5. .gitignore file add .env file\n6.",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "1.ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "1.ALLOWED_HOSTS = [\"*\"]\n2.pip freeze > requirements.txt\n3.pip freeze | py -c \"for p in __import__('sys').stdin: print(p.split('=')[0])\"\n4. create repository on github\n5. .gitignore file add .env file\n6.\n\"\"\"",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "smart_care.urls",
+        "description": "smart_care.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('contact_us.urls')),\n    path('', include('service.urls')),\n    path('', include('patient.urls')),\n    path('', include('doctor.urls')),\n    path('', include('appointment.urls')),\n]\nurlpatterns += static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)",
+        "detail": "smart_care.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "smart_care.wsgi",
+        "description": "smart_care.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "smart_care.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'smart_care.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
