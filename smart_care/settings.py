@@ -177,7 +177,13 @@ EMAIL_PORT = 587
 3.pip freeze | py -c "for p in __import__('sys').stdin: print(p.split('=')[0])"
 4. create repository on github
 5. .gitignore file add .env file
-6.
+6.add code in github
 
+in the onrender website
+
+1.login onrender and go to the dashboard
+2.got to new > web service > Build and deploy > next > connect project
+3.put name > star command (python manage.py runserver 0.0.0.0:80) > select free
+4.give environment variable > create web service
 
 """

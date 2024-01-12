@@ -1888,7 +1888,7 @@
         "kind": 5,
         "importPath": "smart_care.settings",
         "description": "smart_care.settings",
-        "peekOfCode": "EMAIL_PORT = 587\n# mail send end\n# for deploy the django project \n\"\"\" \n1.ALLOWED_HOSTS = [\"*\"]\n2.pip freeze > requirements.txt\n3.pip freeze | py -c \"for p in __import__('sys').stdin: print(p.split('=')[0])\"\n4. create repository on github\n5. .gitignore file add .env file\n6.",
+        "peekOfCode": "EMAIL_PORT = 587\n# mail send end\n# for deploy the django project \n\"\"\" \n1.ALLOWED_HOSTS = [\"*\"]\n2.pip freeze > requirements.txt\n3.pip freeze | py -c \"for p in __import__('sys').stdin: print(p.split('=')[0])\"\n4. create repository on github\n5. .gitignore file add .env file\n6.add code in github",
         "detail": "smart_care.settings",
         "documentation": {}
     },
@@ -1897,7 +1897,7 @@
         "kind": 5,
         "importPath": "smart_care.settings",
         "description": "smart_care.settings",
-        "peekOfCode": "1.ALLOWED_HOSTS = [\"*\"]\n2.pip freeze > requirements.txt\n3.pip freeze | py -c \"for p in __import__('sys').stdin: print(p.split('=')[0])\"\n4. create repository on github\n5. .gitignore file add .env file\n6.\n\"\"\"",
+        "peekOfCode": "1.ALLOWED_HOSTS = [\"*\"]\n2.pip freeze > requirements.txt\n3.pip freeze | py -c \"for p in __import__('sys').stdin: print(p.split('=')[0])\"\n4. create repository on github\n5. .gitignore file add .env file\n6.add code in github\nin the onrender website\n1.login onrender and go to the dashboard\n2.got to new > web service > Build and deploy > next > connect project\n3.put name > star command (python manage.py runserver 0.0.0.0:80) > select free",
         "detail": "smart_care.settings",
         "documentation": {}
     },
