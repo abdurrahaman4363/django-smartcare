@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-bcd^1bm!7evgu3okng!o=0b6367wjl=*=9raeq0t$w=&1lb2u2
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['https://smart-care-dpm3.onrender.com/','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://smart-care-dpm3.onrender.com','https://*.127.0.0.1']
 
 
 
