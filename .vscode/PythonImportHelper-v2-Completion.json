@@ -1672,7 +1672,7 @@
         "kind": 5,
         "importPath": "smart_care.settings",
         "description": "smart_care.settings",
-        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-bcd^1bm!7evgu3okng!o=0b6367wjl=*=9raeq0t$w=&1lb2u2'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-bcd^1bm!7evgu3okng!o=0b6367wjl=*=9raeq0t$w=&1lb2u2'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\nCSRF_TRUSTED_ORIGINS = ['https://smart-care-dpm3.onrender.com/','https://*.127.0.0.1']\n# Application definition",
         "detail": "smart_care.settings",
         "documentation": {}
     },
@@ -1681,7 +1681,7 @@
         "kind": 5,
         "importPath": "smart_care.settings",
         "description": "smart_care.settings",
-        "peekOfCode": "SECRET_KEY = 'django-insecure-bcd^1bm!7evgu3okng!o=0b6367wjl=*=9raeq0t$w=&1lb2u2'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-bcd^1bm!7evgu3okng!o=0b6367wjl=*=9raeq0t$w=&1lb2u2'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\nCSRF_TRUSTED_ORIGINS = ['https://smart-care-dpm3.onrender.com/','https://*.127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
         "detail": "smart_care.settings",
         "documentation": {}
     },
@@ -1690,7 +1690,7 @@
         "kind": 5,
         "importPath": "smart_care.settings",
         "description": "smart_care.settings",
-        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = [\"*\"]\nCSRF_TRUSTED_ORIGINS = ['https://smart-care-dpm3.onrender.com/','https://*.127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
         "detail": "smart_care.settings",
         "documentation": {}
     },
@@ -1699,7 +1699,16 @@
         "kind": 5,
         "importPath": "smart_care.settings",
         "description": "smart_care.settings",
-        "peekOfCode": "ALLOWED_HOSTS = [\"*\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'doctor',",
+        "peekOfCode": "ALLOWED_HOSTS = [\"*\"]\nCSRF_TRUSTED_ORIGINS = ['https://smart-care-dpm3.onrender.com/','https://*.127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CSRF_TRUSTED_ORIGINS",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "CSRF_TRUSTED_ORIGINS = ['https://smart-care-dpm3.onrender.com/','https://*.127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'doctor',",
         "detail": "smart_care.settings",
         "documentation": {}
     },
@@ -1898,6 +1907,15 @@
         "importPath": "smart_care.settings",
         "description": "smart_care.settings",
         "peekOfCode": "1.ALLOWED_HOSTS = [\"*\"]\n2.pip freeze > requirements.txt\n3.pip freeze | py -c \"for p in __import__('sys').stdin: print(p.split('=')[0])\"\n4. create repository on github\n5. .gitignore file add .env file\n6.add code in github\nin the onrender website\n1.login onrender and go to the dashboard\n2.got to new > web service > Build and deploy > next > connect project\n3.put name > star command (python manage.py runserver 0.0.0.0:80) > select free",
+        "detail": "smart_care.settings",
+        "documentation": {}
+    },
+    {
+        "label": "5.CSRF_TRUSTED_ORIGINS",
+        "kind": 5,
+        "importPath": "smart_care.settings",
+        "description": "smart_care.settings",
+        "peekOfCode": "5.CSRF_TRUSTED_ORIGINS = ['https://*.mydomain.com','https://*.127.0.0.1']\n\"\"\"",
         "detail": "smart_care.settings",
         "documentation": {}
     },
